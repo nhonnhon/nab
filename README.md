@@ -13,19 +13,20 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ## Introduce
-In this app, showing forecast for a location <br />
-The api [whether](http://api.weatherapi.com/v1/) <br />
+- In this app, showing forecast for a location <br />
+- The api [whether](http://api.weatherapi.com/v1/) <br />
+- The api is [provided](https://www.metaweather.com/api/) can't access due CROS site
 
-# Search 
+## Search 
 - Type city name to the input search, such as: London, New york <br />
 - Select a location from list are suggested <br />
 
-# Result
+## Result
 - The result of location is selected will show in the box under search input <br />
 - Will have name and region
 - The api is free, so it only returns 3 day forecast
 
-# Public
+## Public
 - App is public here: [github](https://nhonnhon.github.io/nab/#/) <br />
 - But the api is public http, can't access with https site
 - Checkout the source code and run on your local
